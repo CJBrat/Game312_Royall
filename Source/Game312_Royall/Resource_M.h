@@ -43,6 +43,4 @@ public:
 	UPROPERTY(EditAnywhere)
 		UStaticMeshComponent* Mesh;
 
-
-
 };
